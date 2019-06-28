@@ -29,8 +29,8 @@ Please see [CONTRIBUTING.MD](CONTRIBUTING.md)
 
 ### Issues
 
-1. In the corresponding project, launch Issue Discussion this bug
-1. Fork has a bug in the project
+1. In the corresponding project, launch issue discussion this bug
+1. Fork problematic project
 1. Fix the bug and submit the PR to the corresponding project
 1. Wait for project members to merge PR
 
