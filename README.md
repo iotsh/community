@@ -1,3 +1,5 @@
+简体中文|[English](./README-EN.md) 
+
 # Iot - SmartHome
 
 ## 介绍
@@ -9,6 +11,7 @@
 ![Overview](./images/README/Overview.png)
 
 ## 贡献指南
+请参考 [贡献指南](CONTRIBUTING.md)
 
 ### 添加新特性
 1. 在 [comunity](https://github.com/iotsh/community) 项目中发起 Issue，讨论你的想法
@@ -22,4 +25,3 @@
 1. Fork 存在 Bug 的项目
 1. 修复 Bug 并向对应项目提交 PR
 1. 等待项目成员合并 PR
-
